@@ -95,6 +95,7 @@ header img{
 
 .home-social img{
     width: 30px;
+    cursor: pointer;
 }
 
 #home{
